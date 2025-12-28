@@ -47,3 +47,5 @@ Responsible AI: The system ensures fairness, transparency, and privacy.
 
 Communication Flow:
 User → Recommendation Agent → Product Info Agent → Eco Score Calculator Agent → Recycling Agent → Recommendation Agent → User
+
+Demo - https://github.com/user-attachments/assets/c65ba733-5bc4-4ac3-af14-b15ffd84be81
